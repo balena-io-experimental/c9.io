@@ -32,9 +32,9 @@ Create a workspace
      - Choose a language (optional)
 
 Set up the workspace
- - Install resin CLI `$npm i -g resin-cli`
- - Add the resin git remote endpoint `$git remote add resin charlie1@git.resin.io:charlie1/myfleet.git`
+ - Install resin CLI `$ npm i -g resin-cli`
+ - Add the resin git remote endpoint `$ git remote add resin charlie1@git.resin.io:charlie1/myfleet.git`
 
 Devlopment workflow
- - Develop and push with `git push resin master`
- - Iterate quickly with `resin sync`
+ - Develop and push with `$ git push resin master`
+ - Iterate quickly with `$ resin sync`
